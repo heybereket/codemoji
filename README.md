@@ -1,3 +1,3 @@
-<p align="center">
-<img src="https://i.ibb.co/3dVP5Hn/Capture-removebg-preview-25.png">
+<p align="left">
+<img src="https://i.ibb.co/ZGks4ys/Capture-removebg-preview-26.png">
 </p>
