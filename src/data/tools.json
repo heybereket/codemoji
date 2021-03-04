@@ -1,0 +1,108 @@
+[
+    {
+      "emoji": "🎉",
+      "code": ":tada:",
+      "desc": "initial commit",
+      "bgColor": "#77dd77",
+      "popular": true
+    },
+    {
+      "emoji": "✨",
+      "code": ":sparkle:",
+      "desc": "new feature added",
+      "bgColor": "#ffb347",
+      "popular": true
+    },
+    {
+      "emoji": "😛",
+      "code": ":stuck_out_tongue:",
+      "desc": "fixed a big bug",
+      "bgColor": "#E0FEFE",
+      "popular": true
+    },
+    {
+      "emoji": "🚀",
+      "code": ":rocket:",
+      "desc": "deploying new stuff",
+      "bgColor": "#F3D5DB",
+      "popular": true
+    },
+    {
+      "emoji": "🐛",
+      "code": ":bug:",
+      "desc": "bug has been fixed",
+      "bgColor": "#90DAD9"
+    },
+    {
+      "emoji": "🚧",
+      "code": ":construction:",
+      "desc": "in progress",
+      "bgColor": "#ffe55f"
+    },
+    {
+      "emoji": "📸",
+      "code": ":camera:",
+      "desc": "added new images",
+      "bgColor": "#F3BEBC"
+    },
+    {
+      "emoji": "🔖",
+      "code": ":bookmark:",
+      "desc": "new release/version",
+      "bgColor": "#edf47a"
+    },
+    {
+      "emoji": "💩",
+      "code": ":poop:",
+      "desc": "bad written code, needs revision",
+      "bgColor": "#FEF5F4"
+    },
+    {
+      "emoji": "🍻",
+      "code": ":beers:",
+      "desc": "was drunk while coding this",
+      "bgColor": "#CCDDC0"
+    },
+    {
+      "emoji": "🥚",
+      "code": ":egg:",
+      "desc": "easter egg added",
+      "bgColor": "#F8E4C4"
+    },
+    {
+      "emoji": "🔍",
+      "code": ":mag:",
+      "desc": "seo improvements",
+      "bgColor": "#F7DFEF"
+    },
+    {
+      "emoji": "⚰️",
+      "code": ":coffin:",
+      "desc": "remove unused/dead code",
+      "bgColor": "#C7CEEA"
+    },
+    {
+      "emoji": "📱",
+      "code": ":iphone:",
+      "desc": "updated responsiveness",
+      "bgColor": "#B5EAD7"
+    },
+    {
+      "emoji": "💥",
+      "code": ":boom:",
+      "desc": "huge changes made",
+      "bgColor": "#E0FEFE"
+    },
+    {
+      "emoji": "💄",
+      "code": ":lipstick:",
+      "desc": "ui/styling updates",
+      "bgColor": "#D2F8DF"
+    },
+    {
+      "emoji": "⬇️",
+      "code": ":arrow_down:",
+      "desc": "downgraded dependencies",
+      "bgColor": "#C9E0EC"
+    }
+    ]
