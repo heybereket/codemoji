@@ -14,10 +14,10 @@
       "popular": true
     },
     {
-      "emoji": "😛",
-      "code": ":stuck_out_tongue:",
-      "desc": "fixed a big bug",
-      "bgColor": "#E0FEFE",
+      "emoji": "🚧",
+      "code": ":construction:",
+      "desc": "in progress",
+      "bgColor": "#ffe55f",
       "popular": true
     },
     {
@@ -32,12 +32,6 @@
       "code": ":bug:",
       "desc": "bug has been fixed",
       "bgColor": "#90DAD9"
-    },
-    {
-      "emoji": "🚧",
-      "code": ":construction:",
-      "desc": "in progress",
-      "bgColor": "#ffe55f"
     },
     {
       "emoji": "📸",

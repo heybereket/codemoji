@@ -98,11 +98,24 @@ const Home = () => {
               className="display" style={{backgroundColor: ` ${emoji.bgColor}`}}>{emoji.emoji}</span>
                
                { (emoji.popular === true) && (
-               <div className="popular"><strong>🔥 popular</strong></div>
+               <div className="popular"><strong>popular</strong></div>
                )}
 
               <div className="info-wrapper">
-                <p className="code">{emoji.code}</p>
+                <p className="code" onClick={function(e){
+           
+           // creating textarea of html
+           
+           var input = document.createElement("textarea");
+           input.value = emoji.code;
+           document.body.appendChild(input);
+           input.select();
+           document.execCommand("Copy");
+           // removing textarea after copy
+           input.remove();
+           alert(`👍🏻 Successfully Copied: ${input.value}`);
+           }} 
+           >{emoji.code}</p>
                 <small>{emoji.desc}</small>
               </div>  
 
